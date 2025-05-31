@@ -2,4 +2,4 @@
 
 The main repository is https://gitlab.gnome.org/World/highscore
 
-This organization contains the core ports.
+This organization contains the core ports along with https://gitlab.com/highscore-emu.
